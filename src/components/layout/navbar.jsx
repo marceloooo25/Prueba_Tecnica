@@ -35,7 +35,7 @@ export default function Navbar() {
     <nav
       style={{
         position: 'fixed',
-        top: '1rem',
+        top: 0,
         left: 0,
         right: 0,
         height: '4rem',
