@@ -22,3 +22,20 @@ Landing page responsiva y animada para un estudio de tecnología y datos, constr
    ```bash
    git clone https://github.com/tu-usuario/tu-repo.git
    cd tu-repo
+2. Instalar todas las dependencias del proyecto
+npm install
+
+3. Instalar Framer Motion para las animaciones
+npm install framer-motion
+
+(Opcional) Instalar EmailJS si vas a usarlo en “Contact Us”
+npm install emailjs-com
+
+4. Levantar el servidor de desarrollo de Vite
+npm run dev
+
+5. Abrir en tu navegador la URL que indique la consola, normalmente:
+    http://localhost:5173
+
+6. Para detener el servidor y salir, en la terminal presiona:
+    Ctrl + C
